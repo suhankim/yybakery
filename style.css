@@ -2,7 +2,12 @@ h1 {
   color: blue
 }
 
-#global {
-  background-color: blueviolet;
+#div1 {
+  background-color: burlywood;
+  max-width: 1800px;
+}
+
+#div2 {
+  background-color: yellow;
   max-width: 1800px;
 }
