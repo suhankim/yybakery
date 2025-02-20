@@ -1,13 +1,15 @@
-h1 {
-  color: blue
+img {
+  width: 400px;
 }
 
-#div1 {
-  background-color: burlywood;
-  max-width: 1900px;
+p {
+  font-weight: bold;
+  text-align: center;
 }
 
-#div2 {
-  background-color: yellow;
-  max-width: 1900px;
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
 }
